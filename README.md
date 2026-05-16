@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/212/212413.gif" alt="Profile" height="600" width="800">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="Profile" height="600" width="800">
 </p>
 
 <h1 align="center">Hi 👋, I'm Karim</h1>
