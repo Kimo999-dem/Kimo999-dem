@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/212/212413.gif" alt="Profile" height="400" width="600">
+</p>
+
 <h1 align="center">Hi 👋, I'm Karim</h1>
 <h3 align="center">Full stack developer | App Dev | Ai dev</h3>
-(img align="center" alt="Coding" height="600" width="600" src="https://camo.githubusercontent.com/7638d40d6a3a4028fe1bd1fb27788fd728a4a237f793d6f20ab25c769f9967bd/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim&label=Profile%20views&color=0e75b6&style=flat" alt="karim" /> </p>
 
