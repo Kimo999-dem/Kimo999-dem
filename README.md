@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/212/212413.gif" alt="Profile" height="400" width="600">
+  <img src="https://giffiles.alphacoders.com/212/212413.gif" alt="Profile" height="600" width="800">
 </p>
 
 <h1 align="center">Hi 👋, I'm Karim</h1>
